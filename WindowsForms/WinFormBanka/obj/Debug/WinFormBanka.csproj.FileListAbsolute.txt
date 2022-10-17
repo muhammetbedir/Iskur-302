@@ -1,0 +1,12 @@
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\bin\Debug\WinFormBanka.exe.config
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\bin\Debug\WinFormBanka.exe
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\bin\Debug\WinFormBanka.pdb
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.csproj.AssemblyReference.cache
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.Form1.resources
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.Properties.Resources.resources
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.csproj.GenerateResource.cache
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.csproj.CoreCompileInputs.cache
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.exe
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.pdb
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WinFormBanka\obj\Debug\WinFormBanka.IsForm.resources
