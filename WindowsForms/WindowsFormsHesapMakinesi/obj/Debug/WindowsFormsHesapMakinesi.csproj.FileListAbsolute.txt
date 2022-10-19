@@ -1,0 +1,11 @@
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\bin\Debug\WindowsFormsHesapMakinesi.exe.config
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\bin\Debug\WindowsFormsHesapMakinesi.exe
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\bin\Debug\WindowsFormsHesapMakinesi.pdb
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\obj\Debug\WindowsFormsHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\obj\Debug\WindowsFormsHesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\obj\Debug\WindowsFormsHesapMakinesi.Form1.resources
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\obj\Debug\WindowsFormsHesapMakinesi.Properties.Resources.resources
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\obj\Debug\WindowsFormsHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\obj\Debug\WindowsFormsHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\obj\Debug\WindowsFormsHesapMakinesi.exe
+C:\Users\BEDİR\Desktop\c# projeler\TryCatchh\WindowsFormsHesapMakinesi\obj\Debug\WindowsFormsHesapMakinesi.pdb
