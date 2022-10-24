@@ -1,0 +1,24 @@
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\bin\Debug\Ado.Net.exe.config
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\bin\Debug\Ado.Net.exe
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\bin\Debug\Ado.Net.pdb
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.csproj.AssemblyReference.cache
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.Form1.resources
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.Properties.Resources.resources
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.csproj.GenerateResource.cache
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.exe
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.pdb
+C:\Users\muhammet.bedir\source\repos\D_302\Ado.Net\obj\Debug\Ado.Net.Form2.resources
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\bin\Debug\Ado.Net.exe.config
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\bin\Debug\Ado.Net.exe
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\bin\Debug\Ado.Net.pdb
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.csproj.AssemblyReference.cache
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.Form1.resources
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.Form2.resources
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.Properties.Resources.resources
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.csproj.GenerateResource.cache
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.csproj.CoreCompileInputs.cache
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.exe
+C:\Users\BEDİR\Desktop\c# projeler\Ado.Net\obj\Debug\Ado.Net.pdb
